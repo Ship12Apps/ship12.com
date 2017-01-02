@@ -1,0 +1,53 @@
+body {
+	background: #FFF;
+	color: #333;
+	font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+}
+h3, h4, h5, a {
+	color: #FF9545;
+}
+a:hover {
+	text-decoration: none;
+	opacity: 0.6;
+}
+
+section#title {
+	max-width: 500px;
+	margin: 80px auto 50px;
+	text-align: center;
+}
+section#title #logo {
+	font-size: 5.0em;
+}
+section#title h1 {
+	font-size: 3.0em;
+	font-weight: 100;
+	margin-top: 0.2em;
+	margin-bottom: 0;
+}
+section#title h2 {
+	font-size: 1.0em;
+	font-weight: 200;
+	margin-top: 5px;
+}
+
+section#project-info {
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+section#project-info p {
+	font-weight: 100;
+	line-height: 1.4em;
+}
+section#project-info h3 {
+	font-weight: 600;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+section#dot {
+	margin-top: 80px;
+	text-align: center;
+	font-size: 0.55em;
+}
